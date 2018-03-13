@@ -2,6 +2,6 @@
 	recentrepo = C:/Users/Jaak/Documents/ut/2semester/git/githubveeb/jaaku.github.com
 [user]
 	email = jaak.ungro@gmail.com
-	name = Jaak Ungro
+    
 [core]
 	editor = subl
